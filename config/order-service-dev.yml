@@ -3,7 +3,7 @@ spring:
     name: order-service
   cloud:
     config:
-      voerride-none: true  
+      override-none: true  
 server:
   port: 8201
   
